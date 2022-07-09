@@ -1,10 +1,3 @@
----
-title: "UCI HAR Getting and Cleaning Data - CodeBook"
-author: "stormrinz"
-date: '2022-07-09'
-output: html_document
----
-
 ## Source data
 
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The source data are from the Human Activity Recognition Using Smartphones Data Set collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
