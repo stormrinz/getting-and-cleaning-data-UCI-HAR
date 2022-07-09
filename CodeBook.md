@@ -10,7 +10,7 @@ Here is the data for the project:
 
 # The data
 
-[`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/CodeBook.md) contains several datasets along with the final datasets. These are:
+[`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/run_analysis.R) contains several datasets along with the final datasets. These are:
 
 1.  `activities`: contains activity labels with names
 2.  `elements`: contains the file locations of unzipped folder
@@ -25,7 +25,7 @@ Here is the data for the project:
 
 # The transformation
 
-File with R code [`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/CodeBook.md) performs the 5 following steps:
+File with R code [`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/run_analysis.R) performs the 5 following steps:
 
 1.  Reading in the files and merging the training and the test sets to create one dataset.
 
