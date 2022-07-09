@@ -10,7 +10,7 @@ Here is the data for the project:
 
 # The data
 
-`run_analysis.txt` contains several datasets along with the final datasets. These are:
+[`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/CodeBook.md) contains several datasets along with the final datasets. These are:
 
 1.  `activities`: contains activity labels with names
 2.  `elements`: contains the file locations of unzipped folder
@@ -25,7 +25,7 @@ Here is the data for the project:
 
 # The transformation
 
-File with R code `run_analysis.R` performs the 5 following steps:
+File with R code [`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/CodeBook.md) performs the 5 following steps:
 
 1.  Reading in the files and merging the training and the test sets to create one dataset.
 
@@ -37,6 +37,6 @@ File with R code `run_analysis.R` performs the 5 following steps:
 
 5.  Creating a second, independent tidy data set with the average of each variable for each activity and each subject:\
     5.1 Making second tidy data set (`FINALtidyset`)\
-    5.2 Writing second tidy data set in .txt file (`tidy.txt`)
+    5.2 Writing second tidy data set in .txt file ([`tidy.txt`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/tidy.txt))
 
 The code assumes all the data is present in the same folder, un-compressed and without names altered.
