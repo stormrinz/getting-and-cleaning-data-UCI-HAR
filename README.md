@@ -1,10 +1,3 @@
----
-title: "UCI HAR Getting and Cleaning Data - README"
-author: "stormrinz"
-date: '2022-07-09'
-output: html_document
----
-
 # README
 
 `CodeBook.rmd` describes the variables, the data, and any transformations or work that was performed to clean up the data present in the codebook.
